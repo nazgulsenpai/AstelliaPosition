@@ -1,0 +1,12 @@
+C:\Users\ricky\source\repos\AstelliaPosition\bin\x64\Release\AstelliaPosition.exe.config
+C:\Users\ricky\source\repos\AstelliaPosition\bin\x64\Release\AstelliaPosition.exe
+C:\Users\ricky\source\repos\AstelliaPosition\bin\x64\Release\AstelliaPosition.pdb
+C:\Users\ricky\source\repos\AstelliaPosition\bin\x64\Release\Memory.dll
+C:\Users\ricky\source\repos\AstelliaPosition\bin\x64\Release\Memory.xml
+C:\Users\ricky\source\repos\AstelliaPosition\obj\x64\Release\AstelliaPosition.frmAstellia.resources
+C:\Users\ricky\source\repos\AstelliaPosition\obj\x64\Release\AstelliaPosition.Properties.Resources.resources
+C:\Users\ricky\source\repos\AstelliaPosition\obj\x64\Release\AstelliaPosition.csproj.GenerateResource.cache
+C:\Users\ricky\source\repos\AstelliaPosition\obj\x64\Release\AstelliaPosition.csproj.CoreCompileInputs.cache
+C:\Users\ricky\source\repos\AstelliaPosition\obj\x64\Release\AstelliaPosition.csproj.CopyComplete
+C:\Users\ricky\source\repos\AstelliaPosition\obj\x64\Release\AstelliaPosition.exe
+C:\Users\ricky\source\repos\AstelliaPosition\obj\x64\Release\AstelliaPosition.pdb
